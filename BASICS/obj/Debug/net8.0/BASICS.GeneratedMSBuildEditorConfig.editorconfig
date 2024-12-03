@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Course/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0NvdXJzZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Shared/Error.cshtml]

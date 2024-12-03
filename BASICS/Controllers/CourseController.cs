@@ -5,14 +5,14 @@ namespace BASICS.Controllers
     public class CourseController : Controller
     {
         // GET: CourseController
-        public string Index()
+        public IActionResult Index()
         {
-            return "course/index";
+            return View();
         }
 
-        public string List()
+        public IActionResult List()
         {
-            return "course/list";
+            return  View("CourseList");
         }
 
     }
