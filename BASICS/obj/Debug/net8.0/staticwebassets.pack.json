@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/img/1.jpg",
+      "PackagePath": "staticwebassets/img/1.jpg"
+    },
+    {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/img/2.jpg",
+      "PackagePath": "staticwebassets/img/2.jpg"
+    },
+    {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/img/3.jpg",
+      "PackagePath": "staticwebassets/img/3.jpg"
+    },
+    {
       "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
