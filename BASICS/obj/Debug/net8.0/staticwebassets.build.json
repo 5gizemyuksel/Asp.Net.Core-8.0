@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ofCawwOmDeN3FodnheDkFArtwlVY8CncFQ4PvcjvF+E=",
+  "Hash": "os5F9NyYVbE/nIrL2cleyIPXR6kyrY7V2qWEA9cxbKw=",
   "Source": "BASICS",
   "BasePath": "_content/BASICS",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/obj/Debug/net8.0/scopedcss/projectbundle/BASICS.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/css/contact.css",
+      "SourceId": "BASICS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/",
+      "BasePath": "_content/BASICS",
+      "RelativePath": "css/contact.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/contact.css"
     },
     {
       "Identity": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/css/site.css",

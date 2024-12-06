@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0NvdXJzZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Course/_Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL19Db3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Home/Contact.cshtml]
@@ -36,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/Views/Shared/_ValidationScriptsPartial.cshtml]

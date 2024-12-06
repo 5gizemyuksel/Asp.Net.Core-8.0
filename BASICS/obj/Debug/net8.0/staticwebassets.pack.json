@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/BASICS.bundle.scp.css"
     },
     {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/css/contact.css",
+      "PackagePath": "staticwebassets/css/contact.css"
+    },
+    {
       "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/BASICS/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
