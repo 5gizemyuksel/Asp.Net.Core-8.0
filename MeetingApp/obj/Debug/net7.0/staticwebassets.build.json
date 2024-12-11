@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lx50mnQAsWw1OnYaFE77DM2rDDzpqCd3tFoHJx2eXVU=",
+  "Hash": "PCfh2/KH/MH/mDCHckrSXxHBjjyL6hik8p63AtdeGs8=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -623,6 +623,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/wwwroot/lib/bootstrap/css/styles.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/wwwroot/",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "lib/bootstrap/css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/css/styles.css"
     },
     {
       "Identity": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/wwwroot/lib/bootstrap/js/bootstrap.bundle.js",

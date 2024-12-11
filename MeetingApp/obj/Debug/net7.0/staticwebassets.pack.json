@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/wwwroot/lib/bootstrap/css/styles.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/styles.css"
+    },
+    {
       "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/wwwroot/lib/bootstrap/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.js"
     },
