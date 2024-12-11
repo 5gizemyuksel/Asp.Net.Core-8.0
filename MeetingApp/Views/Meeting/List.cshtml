@@ -1,9 +1,14 @@
-﻿<h1>Toplantı Katılım Listesi</h1>
-<table>
+﻿@{
+ViewBag.Title ="Toplantı Katılım Listesi";
+
+}
+<main class="text-center"> 
+<h1 class="h4">Toplantı Katılım Listesi</h1>
+<table class="table table-bordered">
     <thead>
         <tr>
             <td>Ad</td>
-            <td>E-mail</td> 
+
             <td>Katılım Durumu</td>
             <td></td>
         </tr>
@@ -11,15 +16,16 @@
     <tbody>
         <tr>
             <td>Gizem Yüksel</td>
-            <td>info@gizemyuksel.com</td>
+
             <td>Evet</td>
-            <td><a href="#">Detay</a></td> 
+            <td><a class="btn btn-sm btn-primary" href="#">Detay</a></td>
         </tr>
         <tr>
             <td>Ünal Yüksel</td>
-            <td>info@unalyuksel.com</td>
+
             <td>Evet</td>
-            <td><a href="#">Detay</a></td>
+            <td><a class="btn btn-sm btn-primary" href="#">Detay</a></td>
         </tr>
     </tbody>
 </table>
+</main>

@@ -33,3 +33,19 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/Views/Meeting/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

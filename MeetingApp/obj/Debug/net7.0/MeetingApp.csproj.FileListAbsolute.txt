@@ -1,5 +1,7 @@
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/appsettings.Development.json
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/appsettings.json
+/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/libman.json
+/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/MeetingApp.staticwebassets.runtime.json
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/MeetingApp
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/MeetingApp.deps.json
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/bin/Debug/net7.0/MeetingApp.runtimeconfig.json
@@ -10,6 +12,8 @@
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.AssemblyInfo.cs
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.csproj.CoreCompileInputs.cache
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cs
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.sourcelink.json
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/staticwebassets.build.json
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/staticwebassets.development.json
@@ -24,5 +28,3 @@
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.pdb
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.genruntimeconfig.cache
 /Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/ref/MeetingApp.dll
-/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cache
-/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cs
