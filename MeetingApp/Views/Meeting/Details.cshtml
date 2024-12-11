@@ -1,0 +1,38 @@
+﻿@model UserInfo
+
+@{
+ViewBag.Title = "Başvuru Detayı";
+}
+@{
+var className =@Model.WillAttend== true ? "success":"danger";
+}
+@{
+var durum= @Model.WillAttend == true ? "Katılıyor": "Katılmıyor";
+}
+<main class="text-center">
+    <div class="card">
+        <div class="card-body">
+            <h1 class="h4"> Başvuru Detayı</h1>
+        </div>
+    </div>
+    <div class="m-1">
+        <span class="badge text-bg-@className">@durum</span>
+    </div>
+    <div class="card">
+        <div class="card-body ">İsim: @Model.Name</div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            Email: @Model.Email
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            Telefon: @Model.Phone
+        </div>
+    </div>
+    <div class="mt-3" >
+       
+        <a asp-controller="Meeting" asp-action="List" class="btn btn-outline-@className"> Katılımcı Listesi</a>
+    </div>
+</main>
