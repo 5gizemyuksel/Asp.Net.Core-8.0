@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/18787c1e-dd96-4b6e-8809-ebb1fe1c06d5.jpg ",
+      "PackagePath": "staticwebassets/img/18787c1e-dd96-4b6e-8809-ebb1fe1c06d5.jpg "
+    },
+    {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/1d51f319-6649-4b72-bce5-2f1ef44b877a.jpg ",
+      "PackagePath": "staticwebassets/img/1d51f319-6649-4b72-bce5-2f1ef44b877a.jpg "
+    },
+    {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/32894b39-5b5f-4850-93c2-1b4b06051855.jpg ",
+      "PackagePath": "staticwebassets/img/32894b39-5b5f-4850-93c2-1b4b06051855.jpg "
+    },
+    {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/781d6055-a8c7-44fc-9058-3001229f92e5.jpg ",
+      "PackagePath": "staticwebassets/img/781d6055-a8c7-44fc-9058-3001229f92e5.jpg "
+    },
+    {
       "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/b1.jpg",
       "PackagePath": "staticwebassets/img/b1.jpg"
     },
@@ -31,6 +47,10 @@
     {
       "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/b5.jpg",
       "PackagePath": "staticwebassets/img/b5.jpg"
+    },
+    {
+      "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/d703ddc7-a4f3-4756-812b-b33a0b6f237d.jpg",
+      "PackagePath": "staticwebassets/img/d703ddc7-a4f3-4756-812b-b33a0b6f237d.jpg"
     },
     {
       "Id": "/Users/gizemyuksel/Documents/GitHub/Asp.Net.Core-8.0/FormsApp/wwwroot/img/t1.jpg",
